@@ -16,7 +16,7 @@ groups
 
 Initially there are zero messages. As the system operates, the users may post messages, which should be displayed appropriately. Additionally, all the posted messages should be saved in file messages.txt, for future runs of the program. There are four visual modules to be displayed on the screen. Each module displays information pertaining to a current user. The information in the modules should change dynamically as the user changes. The modules are:
 
-A module to display incoming messages. The text of the message and the image (if any) should both be displayed, formatted appropriately.
-A module to display existing contacts.
-A module to display groups of which the current user is member of.
-A module to compose and post messages. This should also include the Additionally, there should be a droplist / menu for selecting the current user.
+  A module to display incoming messages. The text of the message and the image (if any) should both be displayed, formatted appropriately.
+  A module to display existing contacts.
+  A module to display groups of which the current user is member of.
+  A module to compose and post messages. This should also include the Additionally, there should be a droplist / menu for selecting the current user.
