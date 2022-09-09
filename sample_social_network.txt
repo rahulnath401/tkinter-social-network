@@ -1,0 +1,6 @@
+#users
+<Deepika: rajesh, bindu,akshat>
+<akshat: Deepika, rajesh,>
+#groups
+<iit_kgp: Deepika, akshat,>
+<home: akshat, rajesh,>
